@@ -12,3 +12,7 @@ Associate Director, VNS Health
 
 
 [Fatality Rate in USA Tableau Dashboard](https://public.tableau.com/app/profile/farah.salahuddin2339/viz/FatalitiesbyTrafficCrashesAcrossUS-2022/Dashboard1)
+
+<a href="https://public.tableau.com/app/profile/farah.salahuddin2339/viz/FatalitiesbyTrafficCrashesAcrossUS-2022/Dashboard1" target="_blank">
+  Fatality Rate in USA Tableau Dashboard
+</a>
