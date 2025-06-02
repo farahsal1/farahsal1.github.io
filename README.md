@@ -11,3 +11,8 @@ MS Analytics, Georgia Institute of Technology
 </a> 
 
   This dashboard provides an overview of traffic crashes across United States as they have occurred over the year 2022, that can be zoomed to a county and a road level. The dashboard provides an opportunity to observe the changes in fatality risk depending on day of week, lighting and weather conditions. We can also observe which highways and roads have fatal crashes most commonly occurred.
+
+<a href="https://farahsal1.github.io/Obesity_Classification/">
+  Multi-class model to classify obesity levels
+</a> 
+
