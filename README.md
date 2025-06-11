@@ -1,10 +1,13 @@
-Farah Salahuddin is a data scientist and a data analyst with 10+ years of experience in the US Healthcare sector. 
+Hi, I am Farah! I am a data scientist and an analytics leader operating in the US health care space for 10+ years. I am passionate about using data to improve all sorts of outcomes - quality of care, financial, operational and regulatory! After years of monitoring data quality metrics, holding my breath for decimal places and writing weird SQL queries to find all the gaps in data, I tend to get very excited about all things data. 
 
+I have experience working with: SQL, Python, R, Tableau, SAS.
 
-# Education
-MS Analytics, Georgia Institute of Technology
+I have also recently completed a Masters in Analytics from Georgia Tech. 
+
 
 ## Projects
+
+Here are some of the projects I have completed in the last couple of years:
 
 <a href="https://public.tableau.com/app/profile/farah.salahuddin2339/viz/FatalitiesbyTrafficCrashesAcrossUS-2022/Dashboard1" target="_blank">
   Fatalities from Traffic Crashes Across US in 2022 - Tableau Dashboard Visualization
