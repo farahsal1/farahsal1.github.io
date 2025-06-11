@@ -2,8 +2,12 @@ Hi, I am Farah! I am a data scientist and an analytics leader operating in the U
 
 I have experience working with: SQL, Python, R, Tableau, SAS.
 
-I have also recently completed a Masters in Analytics from Georgia Tech. 
 
+## Education 
+
+MS Analytics - Georgia Institute of Technology (2025)
+
+MA Economics - SUNY Albany (2013)
 
 ## Projects
 
