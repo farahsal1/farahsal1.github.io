@@ -1,4 +1,4 @@
-Hi, I am Farah! I am a data scientist and an analytics leader operating in the US health care space for 10+ years. I am passionate about using data to improve all sorts of outcomes - quality of care, financial, operational and regulatory! After years of monitoring data quality metrics, holding my breath for decimal places and writing weird SQL queries to find all the gaps in data, I tend to get very excited about all things data. 
+Hi, I am Farah! I am a data scientist and an analytics leader operating in the US health care space for 10+ years. I am passionate about using data to improve all sorts of outcomes - quality of care, financial, operational and regulatory! After years of monitoring data quality metrics, holding my breath for decimal places and writing weird SQL queries to find all the gaps in data, I tend to get very excited about all kinds of things that require analytical reasoning and connecting the dots type analyses. 
 
 I have experience working with: SQL, Python, R, Tableau, SAS.
 
