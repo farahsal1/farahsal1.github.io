@@ -26,7 +26,7 @@ Here are some of the projects I have completed in the last couple of years:
   In this project, I trained and evaluated two ensemble approaches: random forests and gradient boosting to classify obesity levels (ranging from Insufficient Weight to High Obesity) based on BMI. Overall, random forest model performed slightly better than gradient boosting. The latter was prone was overfitting on the training set. Concluded that age and gender were the most important features, followed by number of meals consumed per day, vegetable consumption and family history with overweight. 
 
 
-<a href="https://farahsal1.github.io/Obesity_Classification/](https://farahsal1.github.io/Movie_Reviews_Classification/">
+<a href="https://farahsal1.github.io/Movie_Reviews_Classification/">
   Sentiment Analysis of IMDb movie reviews - a binary classification model to classify positive and negative reviews 
 </a> 
 
