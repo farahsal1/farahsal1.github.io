@@ -32,3 +32,7 @@ Here are some of the projects I have completed in the last couple of years:
 </a> 
 
   I analyzed movie review data from Kaggle, to classify reviews as either positive or negative based on sentiment analysis. To do this, I utilized spaCy and Natural Language ToolKit (NLTK) packages in Python to clean the data, and the TF-IDF vectorizer to convert words into feature vectors based on their importance in reviews compared to overall corpus. Trained various machine learning binary classification models on the vectorized data and selected logistic regression as the best classifier based on test set data performance.
+
+
+  
+<a href="[https://farahsal1.github.io/Movie_Reviews_Classification/Folium-Accident-Map-NJ/accident_hotspots_nj.html">
