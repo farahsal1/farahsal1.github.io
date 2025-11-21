@@ -35,7 +35,7 @@ Here are some of the projects I have completed in the last couple of years:
 
 
   
-<a href="[https://farahsal1.github.io/Movie_Reviews_Classification/Folium-Accident-Map-NJ/accident_hotspots_nj.html"> 
+<a href="[https://farahsal1.github.io/Folium-Accident-Map-NJ/accident_hotspots_nj.html"> 
   Accident hotspot map using Folium for New Jersey between 2015-2023 
 </a> 
 
